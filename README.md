@@ -1,4 +1,4 @@
 # Blog_website
 
 
-all files : html , css , js , ionicon 
+all files : html , css , js , ionicon  , imgs , favicon
